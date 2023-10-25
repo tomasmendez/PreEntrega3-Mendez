@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+
+.header {
+    background-color: #FFF2F2;
+}
+
+.NavBarWrapper {
+    width: 85%;
+    margin: auto;
+    overflow: hidden;
+    font-size: 20px;
+}
+
+.NavBarFont {
+    font-family: Outfit;
+    color: #8EA7E9;
+}
+
+.NavBarLogo {
+    width: 100px;
+    height: 100px;
+}

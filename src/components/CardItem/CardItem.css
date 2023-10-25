@@ -1,0 +1,31 @@
+.CardItem {
+    width: 20rem;
+    margin-bottom: 1rem;
+    box-shadow: 2px 2px 4px 0 rgba(20, 20, 20, 0.3);
+
+}
+
+.imgCard:hover {
+    z-index: 1;
+    filter: alpha(opacity=70);
+    -moz-opacity: .70;
+    opacity: .70;
+}
+
+.CardTitle {
+    font-size: 25px;
+    font-family: Outfit;
+    color: #7286D3;
+}
+
+.CardText {
+    font-size: 20px;
+    font-family: Outfit;
+    color: #000;
+}
+
+.CardButton {
+    float: right;
+    color: #7286D3;
+
+}

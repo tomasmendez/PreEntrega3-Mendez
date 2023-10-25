@@ -1,0 +1,14 @@
+.CartWidget {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+
+}
+
+.numero {
+    font-family: Outfit;
+    color: #8EA7E9;
+    margin-right: 12px;
+    font-style: normal;
+}

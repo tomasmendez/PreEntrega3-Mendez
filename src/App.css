@@ -1,0 +1,25 @@
+/* Paleta de colores
+    Azul 7286D3
+    Celeste 8EA7E9
+    Turquesa E5E0FF
+    Cremita FFF2F2
+*/
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+
+
+.ItemListContainerWrapper {
+    width: 85%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 25px;
+    font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: start;
+}
+
+.ItemListContainerfont {
+    font-family: Outfit;
+    font-size: 20px;
+}

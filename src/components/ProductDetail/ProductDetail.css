@@ -1,0 +1,57 @@
+.ContenedorDetail {
+    width: 65%;
+    padding: 1.5rem;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid rgba(0, 0, 0, 0.175);
+    box-shadow: 2px 2px 4px 0 rgba(20, 20, 20, 0.3);
+
+    border-radius: 0.375rem;
+    margin-bottom: 15px;
+}
+
+.ContenedorImgDetail {
+    width: auto;
+    margin-right: 15px;
+}
+
+.TituloDetail {
+    color: #7286D3;
+    font-family: Outfit;
+    font-size: 2vw;
+}
+
+.CategoriaDetail {
+    color: #000;
+    font-size: 1.5vw;
+    margin: 0;
+}
+
+.separador {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: 1.3vw;
+}
+
+.ImgDetail {
+    max-width: 100%;
+    width: 310px;
+    border-radius: 2%;
+
+}
+
+.ContenedorCompra {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5%;
+}
+
+.ButtonAgregar {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+
+
+}

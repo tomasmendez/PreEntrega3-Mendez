@@ -1,0 +1,47 @@
+.CartDetailUl {
+    list-style: none;
+    padding: 0;
+}
+
+.CartDetailLi {
+    margin: 4px;
+    border: 1px solid rgba(0, 0, 0, 0.175);
+    border-radius: 0.375rem;
+    padding: 5px;
+    box-shadow: 2px 2px 4px 0 rgba(20, 20, 20, 0.3);
+
+}
+
+.imgCartDetails {
+    height: 200px;
+    border-radius: 4%;
+}
+
+.CartDetailLiContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.CartDetailButton {
+    margin-left: 5px;
+    background-color: brown;
+    border-color: black;
+}
+
+.CartDetailButton:hover {
+    background-color: brown;
+}
+
+.CartDetailsPrecio {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.CartDetailP {
+    text-align: right;
+}
+
+.CartItemAcction {
+    align-self: flex-end;
+}
